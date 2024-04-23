@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.home ul li{
+ width: 14px;
+ list-style: none;
+ display:flex;
+ gap: 15px;
+ padding: 14px;
+}
